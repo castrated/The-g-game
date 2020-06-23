@@ -12,9 +12,11 @@ I.e. ((recurse)), repeat the last move, may cause overflow. //This anon is retar
 
 5.Fighter or RPG, Yotsuba has to escape stallman-sama's basement, fighting her way through waves of gatekeeping neckbeards, Cniles, and lispfags/Yotsuba feel good adventure game.
 
-6.An F-zero clone.
+6.An rts based on the spaceships from conways game of life. They seem so simple and have interesting patterns but you can't predict how a battle would end and who would win. Mostly it is inspired by some random videos I saw a few years ago:https://www.youtube.com/watch?v=-FaqC4h5Ftg
 
-7.A rougelike game maybe with randomly generated waifu routes.
+7.An F-zero clone.
+
+8.A rougelike game maybe with randomly generated waifu routes.
 
 
 
