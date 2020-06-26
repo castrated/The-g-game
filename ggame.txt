@@ -16,7 +16,7 @@ I.e. ((recurse)), repeat the last move, may cause overflow. //This anon is retar
 
 7.A rougelike game maybe with randomly generated waifu routes.
 
-
+8. WILL be made in emojiC/ASM (found in the @castrated repo)
 
 Ideas:
 
